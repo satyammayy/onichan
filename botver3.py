@@ -7,7 +7,7 @@ from random import randint
 from multiprocessing import Process
 from youtubesearchpython import SearchVideos
 
-bot = telepotpro.Bot("1697225853:AAGHonUbSqft_FbS6Za63o221IxYCQT_bTw")
+bot = telepotpro.Bot("1820845651:AAGAyijLVzcITjyGCdRT2cl-wcJE9lgNpt4")
 
 class Music:
     def __init__(self, user_input, msg):
